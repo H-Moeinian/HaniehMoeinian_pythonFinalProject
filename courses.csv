@@ -1,0 +1,13 @@
+name,teacher,major,units,capacity,active
+a,a,computer,3,21,True
+b,b,computer,2,17,True
+c,c,art,3,23,True
+d,d,art,2,31,True
+e,e,computer,3,11,True
+f,f,computer,3,20,True
+g,g,computer,2,23,True
+h,h,computer,3,28,True
+z,z,art,3,31,True
+x,x,art,2,12,True
+n,n,art,3,24,True
+m,m,art,3,20,True

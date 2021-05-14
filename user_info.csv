@@ -1,0 +1,5 @@
+username,password,role,major,no_units,courses
+hanieh,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,administrator,,0
+akram,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,student,computer,16,h,a,e,b,f,g
+maryam,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,administrator,,0
+hamid,6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918,student,art,13,c,d,z,x,m

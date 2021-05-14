@@ -1,0 +1,42 @@
+INFO-2021-05-14 22:34:35,291-logger-akram entered the system successfully
+INFO-2021-05-14 22:37:31,656-logger-akram could not enter the system
+INFO-2021-05-14 22:41:54,588-logger-hanieh entered the system successfully
+INFO-2021-05-14 22:44:42,816-logger-hanieh entered the system successfully
+INFO-2021-05-14 22:45:00,337-logger-course p was added to the system
+INFO-2021-05-14 22:45:12,751-logger-course k was added to the system
+INFO-2021-05-14 22:51:43,858-logger-akram entered the system successfully
+INFO-2021-05-14 22:52:19,808-logger-akram selected course ['h', 'h', 'computer', '3', 29, 'True']
+INFO-2021-05-14 22:53:11,349-logger-akram entered the system successfully
+INFO-2021-05-14 22:53:23,501-logger-akram selected course h
+INFO-2021-05-14 22:56:45,346-logger-akram entered the system successfully
+INFO-2021-05-14 22:56:52,835-logger-hanieh entered the system successfully
+INFO-2021-05-14 22:57:04,795-logger-akram's unit selection was accepted by administrator
+INFO-2021-05-14 23:24:23,491-logger-akram entered the system successfully
+INFO-2021-05-14 23:25:55,145-logger-hamid entered the system successfully
+INFO-2021-05-14 23:26:18,312-logger-hamid selected course c
+INFO-2021-05-14 23:26:21,850-logger-hamid selected course d
+INFO-2021-05-14 23:30:07,033-logger-hanieh entered the system successfully
+ERROR-2021-05-14 23:30:13,405-logger-wrong input in line 128 of main.py
+INFO-2021-05-14 23:30:24,637-logger-course m was added to the system
+INFO-2021-05-14 23:30:34,155-logger-course n was added to the system
+INFO-2021-05-14 23:30:44,717-logger-course z was added to the system
+INFO-2021-05-14 23:31:06,116-logger-course s was added to the system
+INFO-2021-05-14 23:31:59,085-logger-hamid entered the system successfully
+INFO-2021-05-14 23:32:08,535-logger-hamid selected course c
+INFO-2021-05-14 23:32:09,744-logger-hamid selected course d
+INFO-2021-05-14 23:32:10,680-logger-hamid selected course m
+INFO-2021-05-14 23:32:11,884-logger-hamid selected course n
+INFO-2021-05-14 23:32:19,546-logger-hamid selected course z
+INFO-2021-05-14 23:40:05,082-logger-hanieh entered the system successfully
+INFO-2021-05-14 23:40:40,433-logger-hamid entered the system successfully
+INFO-2021-05-14 23:40:55,844-logger-hanieh entered the system successfully
+INFO-2021-05-14 23:41:05,500-logger-course z was added to the system
+INFO-2021-05-14 23:41:12,157-logger-course x was added to the system
+INFO-2021-05-14 23:41:19,800-logger-course n was added to the system
+INFO-2021-05-14 23:41:28,160-logger-course m was added to the system
+INFO-2021-05-14 23:42:34,829-logger-hamid entered the system successfully
+INFO-2021-05-14 23:42:49,895-logger-hamid selected course c
+INFO-2021-05-14 23:42:50,649-logger-hamid selected course d
+INFO-2021-05-14 23:42:51,241-logger-hamid selected course z
+INFO-2021-05-14 23:42:52,043-logger-hamid selected course x
+INFO-2021-05-14 23:43:00,748-logger-hamid selected course m
